@@ -1,0 +1,7 @@
+页面列表：["任务D","任务C","任务B"]
+window.__todoState：[{"id":4,"text":"任务D","completed":false},{"id":3,"text":"任务C","completed":true},{"id":2,"text":"任务B","completed":false}]
+
+控制台最后 3 条 [TodoApp] todos 日志：
+  [TodoApp] todos = [Object, Object]
+  [TodoApp] todos = [Object, Object]
+  [TodoApp] todos = [Object, Object, Object]

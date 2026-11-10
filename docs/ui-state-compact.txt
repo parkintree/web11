@@ -1,0 +1,6 @@
+页面列表：["任务D", "任务C", "任务B"]
+window.__todoState：
+  [{ id: 4, text: "任务D", completed: false },
+   { id: 3, text: "任务C", completed: true },
+   { id: 2, text: "任务B", completed: false }]
+控制台：[TodoApp] todos = [Object, Object, Object]（共 3 条）

@@ -1,0 +1,10 @@
+# 依赖与构建产物
+node_modules/
+dist/
+
+# Word 临时锁文件
+~$*
+
+# 文档预览中间产物（PDF / 逐页 PNG）
+docs/preview/
+docs/_preview_w11.pdf

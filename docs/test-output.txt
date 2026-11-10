@@ -1,0 +1,15 @@
+
+> web11-todo-react@1.0.0 test
+> vitest run
+
+
+ RUN  v5.1.0 E:/大三/Web/web11
+
+ ✓ tests/todo-core.handwritten.test.ts (19 tests) 6ms
+ ✓ tests/todo-core.ai-patched.test.ts (22 tests) 8ms
+
+ Test Files  2 passed (2)
+      Tests  41 passed (41)
+   Start at  16:06:12
+   Duration  178ms (import 34%, transform 28%, tests 20%, worker 17%)
+

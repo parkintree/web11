@@ -1,0 +1,10 @@
+== src/components 目录结构 ==
+src/components/TodoApp.tsx
+src/components/TodoForm.tsx
+src/components/TodoItem.tsx
+src/components/TodoList.tsx
+
+== 每个子组件导出的 Props 接口 ==
+src/components/TodoForm.tsx:13:export interface TodoFormProps {
+src/components/TodoItem.tsx:15:export interface TodoItemProps {
+src/components/TodoList.tsx:12:export interface TodoListProps {
